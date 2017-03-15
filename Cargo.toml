@@ -1,0 +1,7 @@
+[package]
+name = "sqsolve"
+version = "0.1.0"
+authors = ["Zvil <barakakombejarvis@gmail.com>"]
+
+[dependencies]
+rand="0.3.0"
